@@ -1,0 +1,55 @@
+body {
+      font-family: 'Open Sans';
+      margin: 0px;
+}
+
+.header{
+        height: 70px;
+        padding-top: 20px;
+        background-color: #f0f0f0;
+
+}
+
+h1 {
+    margin: 0;
+    color: #black;
+    font-size: 40px;
+}
+
+.container {
+  width: 70%;
+  margin-left: 15%;
+}
+
+div {
+    text-align:center;
+}
+
+img{
+    margin: 50px 0;
+    border-radius: 50%;
+}
+
+p.contact_me {
+  font-weight: bold;
+}
+
+.fa {
+    font-size: 40px;
+}
+
+a {
+  color:#222222;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #464646;
+}
+
+.footer{
+  height: 70px;
+  background-color:#f0f0f0;
+  margin-top: 35px;
+  padding-top: 20px;
+}
